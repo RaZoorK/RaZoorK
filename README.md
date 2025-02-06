@@ -56,7 +56,6 @@ Conception d’un jeu vidéo type platformer avec interface graphique et mécani
 - **Nov. 2024 - Jan. 2025 :** Projet Smart Campus  
 - **Oct. 2024 - Nov. 2024 :** Projet Bataille Navale  
 - **Mai 2024 - Juin 2024 :** Projet Nova l'Explorateur  
-- **Avril 2024 - Mai 2024 :** Projet Fantasy World Builder  
 
 ---
 
