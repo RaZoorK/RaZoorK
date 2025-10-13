@@ -4,7 +4,7 @@
 
 # Mathis Slawy - Étudiant en Informatique 🚀  
 
-Salut, moi c'est Mathis Slawy ! Étudiant en 2ᵉ année de BUT Informatique à l'IUT de La Rochelle, je suis passionné par le développement et toujours prêt à relever de nouveaux défis. Mon objectif ? Apprendre, innover et contribuer à des projets qui ont un impact !  
+Salut, moi c'est Mathis Slawy ! Étudiant en 3ᵉ année de BUT Informatique à l'IUT de La Rochelle, je suis passionné par le développement et toujours prêt à relever de nouveaux défis. Mon objectif ? Apprendre, innover et contribuer à des projets qui ont un impact !  
 
 ---
 
