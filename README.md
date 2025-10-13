@@ -71,7 +71,7 @@ Conception d’un jeu vidéo type platformer avec interface graphique et mécani
 - Développement informatique  
 - Création 3D et animation  
 - Tennis (9 ans de pratique)  
-- Badminton (2 ans de pratique)  
+- Badminton (3 ans de pratique)  
 
 ---
 
