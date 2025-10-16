@@ -11,7 +11,7 @@ Salut, moi c'est Mathis Slawy ! Étudiant en 3ᵉ année de BUT Informatique à 
 ## 🌟 Compétences  
 
 ### Développement Web  
-- PHP, HTML5, CSS, JavaScript, Symfony  
+- PHP, HTML5, CSS, JavaScript, Symfony, React
 
 ### Langages de Programmation  
 - C, C++, SQL, PL/SQL, DQL  
