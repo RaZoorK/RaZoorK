@@ -14,14 +14,14 @@ Salut, moi c'est Mathis Slawy ! Étudiant en 3ᵉ année de BUT Informatique à 
 - PHP, HTML5, CSS, JavaScript, Symfony, React
 
 ### Langages de Programmation  
-- C, C++, SQL, PL/SQL, DQL  
+- C, C++, SQL, PL/SQL, DQL, Dart (Flutter), Kotlin   
 
 ### Gestion de Bases de Données  
 - Analyse, gestion et optimisation des données  
 
 ### Méthodologies et Outils  
 - Méthode Agile, technique Scrum  
-- Visual Studio Code, Qt Creator, PhpStorm  
+- Visual Studio Code, Qt Creator, PhpStorm, WebStorm  
 
 ---
 
