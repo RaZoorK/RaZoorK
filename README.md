@@ -38,10 +38,6 @@ Création d’un site web pour suivre les données environnementales d'une salle
 Développement d’un jeu de stratégie 1v1 dans le terminal, opposant un joueur à un bot côté serveur.  
 **Technos :** Visual Studio Code, C, protocole TCP  
 
-#### **Nova l'Explorateur**  
-Conception d’un jeu vidéo type platformer avec interface graphique et mécaniques d'exploration.  
-**Technos :** Qt Creator, C++, IHM  
-
 ---
 
 ## 🎓 Éducation  
@@ -55,7 +51,6 @@ Conception d’un jeu vidéo type platformer avec interface graphique et mécani
 
 - **Nov. 2024 - Jan. 2025 :** Projet Smart Campus  
 - **Oct. 2024 - Nov. 2024 :** Projet Bataille Navale  
-- **Mai 2024 - Juin 2024 :** Projet Nova l'Explorateur  
 
 ---
 
