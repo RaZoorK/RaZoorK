@@ -74,10 +74,3 @@ Développement d’un jeu de stratégie 1v1 dans le terminal, opposant un joueur
 
 📧 **Email :** mslawy26@gmail.com  
 🔗 **LinkedIn :** [linkedin.com/in/mathis-slawy](https://www.linkedin.com/in/mathis-slawy-509903336/)  
-
- 
-
-<!---
-RaZoorK/RaZoorK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
