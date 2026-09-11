@@ -2,7 +2,7 @@
 ---
 # 👋 Mathis Slawy — Étudiant en Informatique
 
-🎓 Étudiant en **3ᵉ année de BUT Informatique** (parcours **Développeur Full-Stack**) à l’IUT de La Rochelle  
+🎓 Étudiant en **1ère année de Master Informatique** (parcours **Architecte Logiciel**) à l’Université  de La Rochelle  
 💡 Passionné par le développement logiciel, web et mobile  
 🚀 Curieux, motivé et toujours partant pour apprendre de nouvelles technos
 
